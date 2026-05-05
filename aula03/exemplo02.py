@@ -1,4 +1,5 @@
 idade = int(input('Digite sua idade: '))
+# >maior, < menor, >= maior ou igual, <= menor ou igual, == igualdade, != diferença #
 
 if idade >= 18:
     print('\nVocê é maior de idade!')
