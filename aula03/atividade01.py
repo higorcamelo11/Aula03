@@ -1,4 +1,4 @@
-valor = int(input('\nValor da compra: '))
+valor = float(input('\nValor da compra: '))
 
 if valor > 250:
     desc = valor * 0.16
